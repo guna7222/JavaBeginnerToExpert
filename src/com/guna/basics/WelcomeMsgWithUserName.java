@@ -16,6 +16,7 @@ public class WelcomeMsgWithUserName {
 		WelcomeMsgWithUserName name = new WelcomeMsgWithUserName();
 		String uName = name.setUserName(); // assigning to local variable
 		System.out.println("Welcome " + uName);
+		System.out.println("welcome to the git course");
 	}
 
 }
